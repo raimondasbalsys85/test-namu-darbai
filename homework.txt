@@ -1,3 +1,2 @@
- jsfdfsfdhfh
- djgfdskjghhfgh
- dgdfgggdf
+clear function works only on marked tasks
+button items left shows wrong everytime one less
